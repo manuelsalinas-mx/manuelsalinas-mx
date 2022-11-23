@@ -1,6 +1,6 @@
 # Hi There
 
-### Here Manuel Salinas (_iOS Senior Engineer_)
+### Here Manuel Salinas (_iOS Engineer_)
 
 I've been developing solutions for **Apple** devices (_iPhone/ iPad/ Apple Watch_) since more than 10 years, constantly learning using languages such as `Objective-C`, `Swift` and now adopting `SwiftUI`.
 Involved in multicultural work groups.
